@@ -1,0 +1,19 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "Simon dice juego",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel06241/simon-dice.git"
+  },
+  "author": "gabriel06241",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabriel06241/simon-dice/issues"
+  },
+  "homepage": "https://github.com/Gabriel06241/simon-dice#readme"
+}
