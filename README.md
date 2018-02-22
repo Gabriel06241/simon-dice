@@ -7,7 +7,7 @@ Simón dice es un juego creado para el [Curso de Javascript](https://platzi.com/
 Simón dice es un juego que te indicará qué teclas debes tocar, debes memorizarlas y hacer todo lo que Simón dice. 
 
 ## Creditos
-- [Gabriel Perez](https://github.com/Gabriel06241)
+* [Gabriel Perez](https://github.com/Gabriel06241)
 
 ## Licencia
 [MIT](https://opensource.org/licenses/MIT)
