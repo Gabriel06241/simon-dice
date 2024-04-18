@@ -36,8 +36,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          _input-file: 'simon.html'
-          _output-file: 'index.html'
+          _input-file: './simon.html'
+          _output-file: './index.html'
           # Upload entire repository
           path: '.'
       - name: Deploy to GitHub Pages
